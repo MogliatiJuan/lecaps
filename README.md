@@ -2,7 +2,7 @@
 
 Visor liviano de **cotizaciones y rendimientos de LECAP** en Argentina, con **simulador** para estimar capital final y breakeven en USD. Pensado para consulta rápida, con foco en performance y claridad.
 
-**Live demo:** https://v0-lecap-landing-page.vercel.app/
+**Live demo:** https://lecaps.vercel.app/
 
 ---
 
